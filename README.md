@@ -4,14 +4,6 @@ A small experimental toolchain that converts images into BF code and renders the
 
 ---
 
-## 📦 Repository Contents
-
-converter.py   → PNG → BF encoder  
-interpreter.py → BF image renderer  
-run.bat        → Windows shortcut to run interpreter  
-
----
-
 ## 🖼️ What this project does
 
 This project treats images as a stream of grayscale pixel values encoded in BF.
@@ -82,13 +74,7 @@ Or drag & drop PNG onto converter.py (Windows)
 
 ---
 
-### 2. Run interpreter
-
-python interpreter.py file.bf
-
----
-
-### 3. Or use batch file
+### 2. Or use batch file
 
 Double-click:
 
@@ -116,28 +102,4 @@ dog.png → dog(32).bf
 
 ## 📦 Requirements
 
-pip install pillow  
-
----
-
-## 🚧 Notes
-
-- NOT standard BF  
-- Custom image encoding system  
-- Designed for experimentation  
-
----
-
-## 💡 Future ideas
-
-- Run-length encoding compression  
-- Auto width detection  
-- GUI viewer  
-- Real-time preview  
-- Better compression  
-
----
-
-## 🧠 Goal
-
-Can BF be used as a visual data format?
+pip install pillow
