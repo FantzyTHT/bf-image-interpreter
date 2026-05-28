@@ -108,5 +108,5 @@ pip install pillow
 
 ## 📝Notes
 
-don't try input(,) does nothing
+don't try input(,) does nothing  
 loops([]) do work
