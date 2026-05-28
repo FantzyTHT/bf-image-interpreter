@@ -109,4 +109,4 @@ pip install pillow
 ## 📝Notes
 
 don't try input(,) does nothing  
-loops([]) do work
+loops([ ]) do work
