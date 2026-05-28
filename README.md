@@ -96,7 +96,9 @@ dog.png → dog(32).bf
 
 ## 🖼️ Example image
 
-![smile.png](smile.png)
+<p align="center">
+  <img src="smile.png" width="400" />
+</p>
 
 ---
 
