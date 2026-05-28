@@ -96,14 +96,6 @@ run.bat
 
 ---
 
-## 🪟 run.bat example
-
-@echo off  
-python interpreter.py  
-pause  
-
----
-
 ## 📁 Output format rules
 
 64×64 image → NAME.bf  
