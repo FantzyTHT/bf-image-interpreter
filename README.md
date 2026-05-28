@@ -103,3 +103,10 @@ dog.png → dog(32).bf
 ## 📦 Requirements
 
 pip install pillow
+
+---
+
+## 📝Notes
+
+don't try input(,) does nothing
+loops([]) do work
