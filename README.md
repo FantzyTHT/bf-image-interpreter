@@ -97,10 +97,16 @@ dog.png → dog(32).bf
 ## 🖼️ Example
 
 -.>.<.>.<..>.<.>.<......>.<...>..<...>.<.>...<.
-<p align="center">
-  <img src="smile.png" width="150"
-  style="image-rendering: pixelated; image-rendering: crisp-edges;" />
-</p>
+<img src="smile.png"
+width="150"
+style="
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: auto;
+"/>
 
 ---
 
